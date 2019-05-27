@@ -19,6 +19,9 @@ game
 ```
 
 ### Choose project you want to create
+
 ? What project template would you like to generate? (Use arrow keys)
+
 ❯ gradle-lwjgl2
+
   standart-lwjgl2
